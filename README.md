@@ -1,4 +1,4 @@
-# Benchmark Execution Instructions
+# Turbulence Execution Instructions
 
 To execute the benchmark, please ensure that your operating system is either Linux or macOS and the version of Python installed is at least 3.10. Follow the steps below in the specified order:
 

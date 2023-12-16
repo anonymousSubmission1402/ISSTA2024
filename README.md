@@ -10,7 +10,7 @@ Open the terminal and use the `cd` command to move into the Turbulence folder. U
 
 ## Step 2: Set API Keys as Environmental Variables
 
-Configure the OpenAI and Cohere API keys as environmental variables on your operating system. Name the variable for the OpenAI API key as "OPENAI_KEY" and the variable for the Cohere API key as "COHERE_KEY".
+Configure the OpenAI and Cohere API keys as environmental variables on your operating system. Name the variable for the OpenAI API key as "OPENAI_KEY" and the variable for the Cohere API key as "COHERE_KEY". If you are running a local LLM, then there is no need to configure any key.
 
 ## Step 3: Define Prerequisite Settings in `config.json`
 
